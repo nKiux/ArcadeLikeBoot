@@ -21,3 +21,7 @@ ALB可以在開機前自動檢查螢幕參數及C:硬碟狀況
 13. 選擇 "ALB.exe" 的放置位置
 14. 按下確定後即可
 
+示範：
+
+![1](https://github.com/nKiux/ArcadeLikeBoot/assets/46084374/fd58d44e-6bc8-46cd-9484-baa0263510de)
+![2](https://github.com/nKiux/ArcadeLikeBoot/assets/46084374/d6ddcdf9-25bd-45a0-a4d3-2e4adf216690)
